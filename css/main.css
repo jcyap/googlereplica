@@ -1,0 +1,89 @@
+.upperlinks {
+	text-align: right;
+	font-size: 15px;
+	padding-right: 5px;
+	margin-right: 20px;
+}
+
+.upperlinks li{
+	display: inline;
+	padding: 10px;
+	margin: 0;
+
+}
+
+.upperlinks li img{
+	width: 20px;
+	height: 20px;
+	
+}
+
+.jackspic img{
+	border-radius: 100%;
+}
+
+
+
+.googlelogo {
+	padding-top: 100px;
+	height: 200px;
+	width: 500px;
+	margin: auto;
+	min-height: 50px;
+	max-height: 300px;
+	min-width: 200px;
+	max-width: 800px;
+
+}
+
+#searchbox {
+	width:1000px;
+	text-align:left;
+	margin: auto;
+	border: 1px solid black;
+	text-decoration: italic;
+	height: 20px;
+	padding-bottom:30px;
+
+}
+
+#buttonsbelowsearchbar {
+	margin-top: 10px;
+	text-align: center;
+
+}
+
+#buttonsbelowsearchbar a{
+	color: black;
+	background-color: #d3d3d3;
+	display: inline-block;
+	margin:0 10px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.lowerlinks {
+	background-color:#d3d3d3;
+	margin-top: 258px;
+	height: 40px;
+}
+
+.lowerlinks li{
+	display: inline-block;
+	padding-right: 30px;
+	padding-top: 10px;
+	color: black;
+}
+
+.right {
+	padding-left: 950px;
+}
+
+
+
+
+
+
+
+
+
